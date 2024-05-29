@@ -22,7 +22,7 @@ chmod +x rsh
 
 and if you want to install this it with only one command then use this command
 ```bash
-curl https://github.com/editthislater | bash
+curl https://raw.githubusercontent.com/NullifiedSec/raka.sh/main/setup.sh | bash
 ```
 
 # Collaborations
